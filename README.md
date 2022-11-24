@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @y2danny
-- 👀 I’m interested in crypto and mobile development 
-- 🌱 I’m currently learning decentralized finance
+- 👀 I’m interested in crypto and Web3 
+- 🌱 I’m currently learning Smart contracts development
 - 💞️ I’m looking to collaborate on anything positive
 - 📫 How to reach me? Email danielanthonysworld@gmail.com
 
