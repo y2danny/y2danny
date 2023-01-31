@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @y2danny
 - 👀 I’m interested in crypto and Web3 
-- 🌱 I’m currently learning Smart contracts development
+- 🌱 I’m currently developing Smart contracts and writing technical documents
 - 💞️ I’m looking to collaborate on anything positive
 - 📫 How to reach me? Email danielanthonysworld@gmail.com
 
